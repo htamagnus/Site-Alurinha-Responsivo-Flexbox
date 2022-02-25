@@ -1,4 +1,5 @@
 # Site-Alurinha-Responsivo-Flexbox
+Com o desenvolvimento desse projeto, pude testar meus conhecimentos em Flexbox, melhorando o controle do posicionamento dos elementos na página, e elaborando um site responsivo.
 
 Site Mobile:
 
